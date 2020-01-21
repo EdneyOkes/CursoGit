@@ -20,9 +20,9 @@ namespace ProjetoTeste
             // Removendo o commit totalmente e voltando ao estado anterior (git reset --soft HEAD~1) - mantenado os arquivos
             // Removendo o commit totalmente e voltando ao estado anterior (git reset --hard HEAD~1) - apagando os arquivos
 
-            // Aula 105
+            // Aula 105 >> Finalizando aulas sobre Git
 
-            // Vizualizar um commit anterior >>> git checkout <código do commit>
+            // Vizualizar um commit anterior >>> (Dar um git status antes) >>> git checkout <código do commit>
             // Voltar para o último commit >>>> git checkout <nome do branch>
 
 
