@@ -29,6 +29,11 @@ namespace ProjetoTeste
 
             Console.WriteLine("Testando com novo commit");
 
+            // Aula 111 - Transferindo um repositório remoto para o seu computador
+
+            Console.WriteLine();
+            Console.WriteLine("Testando commit");
+
 
 
 
