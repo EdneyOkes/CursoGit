@@ -25,6 +25,12 @@ namespace ProjetoTeste
             // Vizualizar um commit anterior >>> (Dar um git status antes) >>> git checkout <código do commit>
             // Voltar para o último commit >>>> git checkout <nome do branch>
 
+            // Aula 109 - Transferindo o repositório para o Github
+
+            Console.WriteLine("Testando com novo commit");
+
+
+
 
         }
     }
